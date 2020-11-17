@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # author:  Isac Canedo
-# website: https://github.com/bas080/slyshow
+# github: https://github.com/isaccanedo/ping.sh
 # created: Tue Nov  17 16:06:29 CET 2020
 # license: GNU General Public License 3.0
 
